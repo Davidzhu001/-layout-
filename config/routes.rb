@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'jiancha/jiancha'
+
   get 'home/home'
 
   get 'home/index'
